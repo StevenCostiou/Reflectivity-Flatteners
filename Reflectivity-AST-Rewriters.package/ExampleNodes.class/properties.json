@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Reflectivity-AST-Rewriters-tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tag"
+	],
+	"name" : "ExampleNodes",
+	"type" : "normal"
+}

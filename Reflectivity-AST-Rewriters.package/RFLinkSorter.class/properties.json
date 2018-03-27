@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "StevenCostiou 3/10/2018 13:37",
+	"super" : "Object",
+	"category" : "Reflectivity-AST-Rewriters-core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"before",
+		"after",
+		"instead"
+	],
+	"name" : "RFLinkSorter",
+	"type" : "normal"
+}

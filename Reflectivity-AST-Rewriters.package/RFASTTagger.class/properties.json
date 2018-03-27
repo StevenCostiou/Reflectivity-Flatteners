@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "StevenCostiou 3/10/2018 16:11",
+	"super" : "Object",
+	"category" : "Reflectivity-AST-Rewriters-core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"counter"
+	],
+	"name" : "RFASTTagger",
+	"type" : "normal"
+}

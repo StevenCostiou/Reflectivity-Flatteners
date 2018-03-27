@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "StevenCostiou 3/9/2018 19:55",
+	"super" : "Object",
+	"category" : "Reflectivity-AST-Rewriters-core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"temporaries",
+		"methodNode"
+	],
+	"name" : "RFNodeRewriter",
+	"type" : "normal"
+}

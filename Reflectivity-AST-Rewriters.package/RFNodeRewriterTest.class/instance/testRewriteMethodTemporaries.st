@@ -1,0 +1,2 @@
+rewriting - method
+testRewriteMethodTemporaries

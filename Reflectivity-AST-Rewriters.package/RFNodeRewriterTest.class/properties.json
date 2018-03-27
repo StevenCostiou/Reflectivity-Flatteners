@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Reflectivity-AST-Rewriters-tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"exampleNodes",
+		"before_link",
+		"after_link",
+		"instead_link"
+	],
+	"name" : "RFNodeRewriterTest",
+	"type" : "normal"
+}

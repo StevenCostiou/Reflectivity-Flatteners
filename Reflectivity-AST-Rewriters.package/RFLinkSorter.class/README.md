@@ -1,0 +1,1 @@
+I sort links that should be compiled for an ast node. Then I just hold those links that should be applied at compile time, separated in different collections (before, instead, after).
